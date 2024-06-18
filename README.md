@@ -1,7 +1,2 @@
 # microservices app
-### artists + albums 
-### api gateway
-### discovery service
-### server configuration
-### zipkin logging
-### postgresql db
+- simple microservices app with 2 entities, api gateway, server configuration, zipkin logging
