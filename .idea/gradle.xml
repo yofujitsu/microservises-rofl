@@ -3,6 +3,38 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/album" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/album" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/artist" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/artist" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/config" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/config" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/discovery" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/discovery" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/gateway" />
         <option name="modules">
           <set>

@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/album" />
+    <file type="web" url="file://$PROJECT_DIR$/artist" />
+    <file type="web" url="file://$PROJECT_DIR$/config" />
+    <file type="web" url="file://$PROJECT_DIR$/discovery" />
     <file type="web" url="file://$PROJECT_DIR$/gateway" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK">
